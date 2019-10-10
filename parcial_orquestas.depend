@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1570615000 source:c:\users\sa-julian\documents\estudio\utn fra\1er cuatrimestre\programación y laboratorio 1\otros\parcial de practica\proyecto\parcial_orquestas\entidadabm.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"entidadABM.h"
+
+1570624898 c:\users\sa-julian\documents\estudio\utn fra\1er cuatrimestre\programación y laboratorio 1\otros\parcial de practica\proyecto\parcial_orquestas\entidadabm.h
+
+1570621225 source:c:\users\sa-julian\documents\estudio\utn fra\1er cuatrimestre\programación y laboratorio 1\otros\parcial de practica\proyecto\parcial_orquestas\entidadinformes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"entidadInformes.h"
+
+1570620805 c:\users\sa-julian\documents\estudio\utn fra\1er cuatrimestre\programación y laboratorio 1\otros\parcial de practica\proyecto\parcial_orquestas\entidadinformes.h
+	"entidadABM.h"
+
+1570681536 source:c:\users\sa-julian\documents\estudio\utn fra\1er cuatrimestre\programación y laboratorio 1\otros\parcial de practica\proyecto\parcial_orquestas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ABM.h"
+
+1570681587 c:\users\sa-julian\documents\estudio\utn fra\1er cuatrimestre\programación y laboratorio 1\otros\parcial de practica\proyecto\parcial_orquestas\abm.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"orquestaABM.h"
+
+1570679725 c:\users\sa-julian\documents\estudio\utn fra\1er cuatrimestre\programación y laboratorio 1\otros\parcial de practica\proyecto\parcial_orquestas\orquestaabm.h
+
+1570620056 source:c:\users\sa-julian\documents\estudio\utn fra\1er cuatrimestre\programación y laboratorio 1\otros\parcial de practica\proyecto\parcial_orquestas\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+
+1570604359 c:\users\sa-julian\documents\estudio\utn fra\1er cuatrimestre\programación y laboratorio 1\otros\parcial de practica\proyecto\parcial_orquestas\utn.h
+
+1570680860 source:c:\users\sa-julian\documents\estudio\utn fra\1er cuatrimestre\programación y laboratorio 1\otros\parcial de practica\proyecto\parcial_orquestas\abm.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ABM.h"
+
+1570679557 source:c:\users\sa-julian\documents\estudio\utn fra\1er cuatrimestre\programación y laboratorio 1\otros\parcial de practica\proyecto\parcial_orquestas\orquestaabm.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"orquestaABM.h"
+
+1570679557 c:\users\sa-julian\documents\estudio\utn fra\1er cuatrimestre\programación y laboratorio 1\otros\parcial de practica\proyecto\parcial_orquestas\orquestaabm.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"orquestaABM.h"
+
+1570681113 source:c:\users\sa-julian\documents\estudio\utn fra\1er cuatrimestre\programación y laboratorio 1\otros\parcial de practica\proyecto\parcial_orquestas\orquestainformes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"orquestaInformes.h"
+
+1570680200 c:\users\sa-julian\documents\estudio\utn fra\1er cuatrimestre\programación y laboratorio 1\otros\parcial de practica\proyecto\parcial_orquestas\orquestainformes.h
+	"orquestaABM.h"
+
